@@ -1,0 +1,2 @@
+﻿Para utilizar um método que requer ser autenticado, tem que passar no header:
+Authorization = "Bearer " + token
